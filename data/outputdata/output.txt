@@ -1,3 +1,4 @@
-User: tạm biệt
-Bot: Tạm biệt! Chúc bạn một ngày tốt lành.
+User: màn hình bị sọc
+Bot: Nguyên nhân:  do màn hình bị hỏng hoặc có điểm chết.
+Biện pháp: Thử kết nối với màn hình ngoài. Nếu màn hình ngoài hiển thị bình thường, có thể cần thay màn hình laptop.
 
